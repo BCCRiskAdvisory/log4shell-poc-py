@@ -87,7 +87,7 @@ if __name__ == '__main__':
         print("""
               Error: Two arguments required.
               
-              Usage: python3 shellingtonmcriceface_bypass.py <targetsFile> <interactionUrl>
+              Usage: python3 <filename> <targetsFile> <interactionUrl>
               """)
     else:
         main()
